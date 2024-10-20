@@ -1,0 +1,244 @@
+Uri: http://wave-cleaning.com/
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\index.htm
+Content Type: text/html
+
+Uri: http://wave-cleaning.com/privacy_policy
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\privacy_policy-1.html
+Content Type: text/html
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.net/css/tilda-catalog-1.1.min.css
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\css\tilda-catalog-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.net/css/tilda-date-picker-1.0.min.css
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\css\tilda-date-picker-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.net/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.net/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.net/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.net/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.net/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.net/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/tilda-animation-ext-1.0.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-animation-ext-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/tilda-catalog-1.1.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-catalog-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/tilda-date-picker-1.0.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-date-picker-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/tilda-popup-1.0.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-popup-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/tilda-products-1.0.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-products-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/tilda-skiplink-1.0.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-skiplink-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/tild3465-3766-4331-b433-666163306332/10801080_137.png
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild3465-3766-4331-b433-666163306332\10801080_137.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.net/tild3562-6233-4065-b933-343466383137/Wave_Logo_2_Colored_.png
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild3562-6233-4065-b933-343466383137\Wave_Logo_2_Colored_.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.net/tild3932-6231-4664-a363-373564346238/Wave_Logo_2_Colored_.png
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild3932-6231-4664-a363-373564346238\Wave_Logo_2_Colored_.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.net/tild3935-3539-4231-b166-633166376637/Wave_Logo_square_1_p.png
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild3935-3539-4231-b166-633166376637\Wave_Logo_square_1_p.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.net/ws/project8622459/tilda-blocks-page43770943.min.css?t=1728566844
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\ws\project8622459\tilda-blocks-page43770943.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.net/ws/project8622459/tilda-blocks-page43770943.min.js?t=1728566844
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\ws\project8622459\tilda-blocks-page43770943.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.net/ws/project8622459/tilda-blocks-page51044739.min.css?t=1727085006
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\ws\project8622459\tilda-blocks-page51044739.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.net/ws/project8622459/tilda-blocks-page51044739.min.js?t=1727085006
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\ws\project8622459\tilda-blocks-page51044739.min.js
+Content Type: application/javascript
+
+Uri: https://thb.tildacdn.net/tild3138-3335-4665-a233-356138373763/-/resizeb/20x/IMG_1632.PNG
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild3138-3335-4665-a233-356138373763\-\resizeb\20x\IMG_1632.PNG
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.net/tild3138-3832-4636-a266-366266303063/-/resizeb/20x/facebook_cover.png
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild3138-3832-4636-a266-366266303063\-\resizeb\20x\facebook_cover.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.net/tild3165-6139-4535-b265-663133343161/-/resizeb/20x/IMG_1633.PNG
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild3165-6139-4535-b265-663133343161\-\resizeb\20x\IMG_1633.PNG
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.net/tild3231-3962-4737-b238-643137663863/-/resizeb/20x/facebook_cover.png
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild3231-3962-4737-b238-643137663863\-\resizeb\20x\facebook_cover.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.net/tild3332-6333-4735-a538-336231313361/-/resizeb/20x/IMG_1631.jpeg
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild3332-6333-4735-a538-336231313361\-\resizeb\20x\IMG_1631.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.net/tild3437-3765-4234-b463-633865346139/-/resizeb/20x/facebook_cover.png
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild3437-3765-4234-b463-633865346139\-\resizeb\20x\facebook_cover.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.net/tild3464-6239-4339-b139-373531303335/-/resizeb/20x/IMG_1641.PNG
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild3464-6239-4339-b139-373531303335\-\resizeb\20x\IMG_1641.PNG
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.net/tild3733-3539-4634-b032-643530343866/-/resizeb/20x/IMG_1640.PNG
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild3733-3539-4634-b032-643530343866\-\resizeb\20x\IMG_1640.PNG
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.net/tild3836-3965-4237-a232-323839373531/-/resizeb/20x/IMG_1639.PNG
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild3836-3965-4237-a232-323839373531\-\resizeb\20x\IMG_1639.PNG
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.net/tild3931-3066-4233-b263-326630383536/-/resizeb/20x/facebook_cover-1.png
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild3931-3066-4233-b263-326630383536\-\resizeb\20x\facebook_cover-1.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.net/tild3935-3435-4166-b431-336561356634/-/resizeb/20x/facebook_cover-3.png
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild3935-3435-4166-b431-336561356634\-\resizeb\20x\facebook_cover-3.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.net/tild6164-3630-4865-a533-636561363930/-/resizeb/20x/IMG_1636.PNG
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild6164-3630-4865-a533-636561363930\-\resizeb\20x\IMG_1636.PNG
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.net/tild6230-6433-4432-a237-303665616363/-/resizeb/20x/IMG_1631.PNG
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild6230-6433-4432-a237-303665616363\-\resizeb\20x\IMG_1631.PNG
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.net/tild6238-3632-4561-a135-313130366265/-/resizeb/20x/facebook_cover.png
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild6238-3632-4561-a135-313130366265\-\resizeb\20x\facebook_cover.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.net/tild6339-6662-4736-a239-653632636632/-/resizeb/20x/IMG_1637.PNG
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild6339-6662-4736-a239-653632636632\-\resizeb\20x\IMG_1637.PNG
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.net/tild6364-3434-4635-a665-633538346634/-/resizeb/20x/IMG_1638.PNG
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild6364-3434-4635-a665-633538346634\-\resizeb\20x\IMG_1638.PNG
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.net/tild6462-3737-4933-b365-633431366238/-/resizeb/20x/IMG_1635.PNG
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild6462-3737-4933-b365-633431366238\-\resizeb\20x\IMG_1635.PNG
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.net/tild6533-3432-4935-b639-353834383731/-/resizeb/20x/IMG_1634.PNG
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tild6533-3432-4935-b639-353834383731\-\resizeb\20x\IMG_1634.PNG
+Content Type: image/jpeg
+
+Uri: https://use.typekit.net/smg7eyn.js
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\smg7eyn.js
+Content Type: text/javascript
+
+Uri: https://wave-cleaning.com/privacy_policy
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\privacy_policy.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/tr?id=02000415311917741908114153119177419081&ev=PageView&agent=pltilda&noscript=1
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tr-1
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=415311917741908&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\tr
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-BES7QST7P5
+File Name: C:\Downloaded Web Sites\wave-cleaning.com\gtag\js
+Content Type: application/javascript
+
